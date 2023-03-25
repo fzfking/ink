@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 using Ink.Parsed;
+using Object = Ink.Parsed.Object;
+using Path = Ink.Parsed.Path;
 
 
 namespace Ink
